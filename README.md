@@ -1,3 +1,3 @@
 # CSE110
 
-Michi's User Page
+I like C++ and Java
