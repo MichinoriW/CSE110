@@ -33,7 +33,4 @@ code quote2
 3. ordered
 
 - [ ] incomplete task
-- [X] completed task 
-
-ddd
-adadsf
+- [X] completed task
